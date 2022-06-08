@@ -1,1 +1,3 @@
 # compare_parallaxes
+
+This Python script was produced in the context of the METEOR (Modules Experiment-ThEOry-Research) "Galactic Archeology" of the MAUCA (Master track in Astrophysics in Université Côte d'Azur). The goal was to study the impact of choosing an inference method for the stellar distance on spatial distribution and the kinematics of a sample of stars, located in the north galactic pole (NGP). In particular, we compare parallax-inferred distances with geometric and photogeometric distances [Astraatmadja & Bailer-Jones (2017)]. We also use quality cuts such as the RUWE (Renormalised Unit Weight Error) [Lindegren 2018] and the fidelity parameter [Rybizki et al.(2021)] to understand how it affects our final sample. 
